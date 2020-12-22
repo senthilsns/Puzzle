@@ -14,6 +14,6 @@ output : Hello Hello Hello Hello Hello
 
 
 2. 
-Input : a3b4b5g8
+Input : "a3b4b5g8"
 
 output: 20
