@@ -19,7 +19,9 @@ Input : "a3b4b5g8"
 output: 20
 
 
-3.  Given two sorted arrays of integers, find the median
+3.  
+
+ Given two sorted arrays of integers, find the median
 
  Example: _nums1: [1,3,5]
  
