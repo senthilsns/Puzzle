@@ -5,6 +5,14 @@
 //  Created by SENTHILKUMAR on 21/12/20.
 //
 
+/*
+
+Input : "a3b4b5g8"
+
+output: 20
+
+*/
+
 import UIKit
 
 class ViewController: UIViewController {
