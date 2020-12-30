@@ -6,6 +6,14 @@
 //  Copyright © 2020 Personal. All rights reserved.
 //
 
+/*
+Input : "Hello" Repeat Count : 5
+
+output : Hello Hello Hello Hello Hello
+
+*/
+
+
 import UIKit
 
 class ViewController: UIViewController {
