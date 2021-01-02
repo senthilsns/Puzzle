@@ -1,9 +1,9 @@
 # Puzzle
 
 
-Tools : Xcode 11.3
+Tools : Xcode 12.3
 
-language : swift 5
+language : swift 5.3
 
 Requirement :
 
