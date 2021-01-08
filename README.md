@@ -45,3 +45,6 @@ output: 20
  
  Middle of this is 2.
 
+
+4.
+Find odd or even Number
