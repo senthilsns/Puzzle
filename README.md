@@ -48,3 +48,6 @@ output: 20
 
 4.
 Find odd or even Number
+
+5.
+Binary Search
